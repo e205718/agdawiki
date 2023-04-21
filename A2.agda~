@@ -1,0 +1,4 @@
+module A2 where
+
+open import Data.Bool
+open import Data.Nat
